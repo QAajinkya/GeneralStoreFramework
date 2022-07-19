@@ -9,7 +9,7 @@ class Driver:
         desired_caps['automationName'] = 'UiAutomator2'
         desired_caps['platformVersion'] = '6.0.1'
         desired_caps['deviceName'] = 'Redmi'
-        desired_caps['app'] = ('C:/Users/ajinkyas.shukla_info/Desktop/Appium/General_Store.apk')
+        desired_caps['app'] = ('C:/Users/ajin/Desktop/Appium/General_Store.apk')
         desired_caps['appWaitPackage'] = 'com.androidsample.generalstore'
         desired_caps['appWaitActivity'] = 'com.androidsample.generalstore.MainActivity'
         desired_caps['noReset'] = True
